@@ -1,0 +1,7 @@
+{
+  "python.terminal.activateEnvInCurrentTerminal": true,
+  "python.defaultInterpreterPath": "~/.pyenv/shims/python",
+  "code-runner.executorMap": {
+    "python": "python"
+  }
+}
