@@ -1,0 +1,7 @@
+[project]
+name = "PlaygroundRoot"
+version = "0.0.1"
+
+[project.optional-dependencies]
+dev = ["ruff>=0.1.6"]
+test = ["pytest>=3.0.0"]
